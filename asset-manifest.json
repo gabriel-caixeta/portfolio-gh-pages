@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-gh-pages/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/portfolio-gh-pages/static/js/main.17d2a2d0.chunk.js",
-    "main.js.map": "/portfolio-gh-pages/static/js/main.17d2a2d0.chunk.js.map",
-    "runtime-main.js": "/portfolio-gh-pages/static/js/runtime-main.b9bf38af.js",
-    "runtime-main.js.map": "/portfolio-gh-pages/static/js/runtime-main.b9bf38af.js.map",
-    "static/js/2.bae39a80.chunk.js": "/portfolio-gh-pages/static/js/2.bae39a80.chunk.js",
-    "static/js/2.bae39a80.chunk.js.map": "/portfolio-gh-pages/static/js/2.bae39a80.chunk.js.map",
-    "index.html": "/portfolio-gh-pages/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/portfolio-gh-pages/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.bae39a80.chunk.js.LICENSE.txt": "/portfolio-gh-pages/static/js/2.bae39a80.chunk.js.LICENSE.txt",
-    "static/media/algorithms.svg": "/portfolio-gh-pages/static/media/algorithms.efb9b8a0.svg",
-    "static/media/contact-1.jpg": "/portfolio-gh-pages/static/media/contact-1.fba515d0.jpg",
-    "static/media/frontend-android.svg": "/portfolio-gh-pages/static/media/frontend-android.72bbce15.svg",
-    "static/media/hero_section-1.jpg": "/portfolio-gh-pages/static/media/hero_section-1.b3bbaa7e.jpg",
-    "static/media/server-backend.svg": "/portfolio-gh-pages/static/media/server-backend.c650592f.svg"
+    "main.css": "/static/css/main.385301fd.chunk.css",
+    "main.js": "/static/js/main.bf359a59.chunk.js",
+    "main.js.map": "/static/js/main.bf359a59.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f7d7eb59.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f7d7eb59.js.map",
+    "static/js/2.125e9402.chunk.js": "/static/js/2.125e9402.chunk.js",
+    "static/js/2.125e9402.chunk.js.map": "/static/js/2.125e9402.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.385301fd.chunk.css.map": "/static/css/main.385301fd.chunk.css.map",
+    "static/js/2.125e9402.chunk.js.LICENSE.txt": "/static/js/2.125e9402.chunk.js.LICENSE.txt",
+    "static/media/algorithms.svg": "/static/media/algorithms.efb9b8a0.svg",
+    "static/media/contact-1.jpg": "/static/media/contact-1.fba515d0.jpg",
+    "static/media/frontend-android.svg": "/static/media/frontend-android.72bbce15.svg",
+    "static/media/hero_section-1.jpg": "/static/media/hero_section-1.b3bbaa7e.jpg",
+    "static/media/server-backend.svg": "/static/media/server-backend.c650592f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9bf38af.js",
-    "static/js/2.bae39a80.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.17d2a2d0.chunk.js"
+    "static/js/runtime-main.f7d7eb59.js",
+    "static/js/2.125e9402.chunk.js",
+    "static/css/main.385301fd.chunk.css",
+    "static/js/main.bf359a59.chunk.js"
   ]
 }
